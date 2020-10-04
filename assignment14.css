@@ -1,0 +1,18 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+    border-style: inset;
+    border-color: firebrick;
+    border-width: 30px;
+}
+.div1{
+    
+border-bottom-color: indigo;
+    border-bottom-style:dashed;
+    border-width: 10px;
+}
+img{
+    border-width: 10px;
+    border-style: double;
+    border-color: tomato;
+}
